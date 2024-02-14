@@ -20,7 +20,12 @@ Adicionalmente, se utilizan los siguientes elementos:
 - ✅ Spinner
 
 
+<img width="290" alt="Captura de pantalla 2024-02-13 a la(s) 11 12 50 p m" src="https://github.com/hamv15/Desarrollo-android-kotlin-actividad-2/assets/47130351/aaa29134-c7cb-4131-9fdf-85e1cb4d86ff">
 
+
+
+
+<img width="307" alt="Captura de pantalla 2024-02-13 a la(s) 11 13 16 p m" src="https://github.com/hamv15/Desarrollo-android-kotlin-actividad-2/assets/47130351/873f606f-8845-42de-8813-066ac1e359d1">
 
 
 
